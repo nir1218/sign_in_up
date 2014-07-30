@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source source="LOCAL" name="Rails sign_in_up: development" uuid="c606ad84-a352-41cc-810e-9f6c69abd2ca">
-    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
-  </data-source>
-  <data-source source="LOCAL" name="Rails sign_in_up: test" uuid="5ec0e434-b966-4c17-8dec-f6f343761ada">
-    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  <data-source source="LOCAL" name="MariaDB- @localhost" uuid="0d3bfb8a-ef86-4948-83fa-6a771c0662ed">
+    <database-info product="MySQL" version="5.5.5-10.1.0-MariaDB-1~trusty-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.31 ( Revision: alexander.soklakov@oracle.com-20140520065950-groqzzbvxprqdmnz )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
   </data-source>
 </component>
