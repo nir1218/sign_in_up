@@ -153,6 +153,7 @@
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.10.1, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.5.5, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mysql2 (v0.3.16, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="oauth (v0.4.7, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="oauth2 (v0.9.4, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="omniauth (v1.2.1, RVM: ruby-2.1.2 [sign_in_up]) [gem]" level="application" />
