@@ -1,23 +1,7 @@
 development:
-  adapter: mysql
+  adapter: mysql2
   pool: 5
   database: market_place_dev
   username: any_dev
   password: any_dev_pass
   host: localhost
-
-test:
-  adapter: mysql
-  pool: 5
-  database: market_place_test
-  username: [user]
-  password: [password]
-  host: localhost
-
-production:
-  adapter: mysql
-  pool: 5
-  database: [database]
-  username: [username]
-  password: [password]
-  host: [host]
